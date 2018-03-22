@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\FULL DATA CAMPUS\\Pengembangan Aplikasi Mobile\\Successful Application\\SimpleCalc\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w720dp-v13\\values-w720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ucupalandi12\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.1.aar\\e24eff1885ef6ed1ef15083e0470759e\\res\\values-w720dp\\values-w720dp.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "231",
+                        "endColumns": "76",
+                        "endOffsets": "303"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Tugas Kuliah\\Android Fundamentals\\SimpleCalc\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w720dp-v13\\values-w720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Alex Gochi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.1.1.aar\\448dfdf0bd81057ee574ba59b6008f7d\\res\\values-w720dp\\values-w720dp.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "231",
+                        "endColumns": "76",
+                        "endOffsets": "303"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    }
+                }
+            ]
+        }
+    ]
+}
